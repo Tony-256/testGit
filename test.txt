@@ -1,1 +1,4 @@
 sample
+A car is an example of a complex object, with many attributes. 
+We don’t need to understand all of its internal mechanics, what kind of engine it has, how the gas makes it run, 
+or even where the gas came from in order to know how to interact with it.
